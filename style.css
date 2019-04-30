@@ -1,0 +1,41 @@
+body {
+    background-color: lightgray;
+  }
+  
+  h1 {
+    font-family: 'Nobile', sans-serif;
+    text-align: center;
+    font-size: 35px;
+  }
+  
+  img {
+    position: relative;
+    display: block; 
+    margin: 10px auto;
+  }
+  .boxes {
+    border: 1px solid black;
+    padding: 2px;
+    margin: 30px;
+    width:45%;
+    font-family: 'Nobile', sans-serif;
+    text-align: left;
+    
+  }
+  
+  #food {
+    float: left; 
+  }
+  
+  #seasons {
+    float: right;
+  }
+  
+  #footer {
+    font-family: 'Nobile', sans-serif;
+  }
+  
+  h4, h5, p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+  }
