@@ -3,9 +3,9 @@ body {
   }
   
   h1 {
-    font-family: 'Nobile', sans-serif;
+    font-family: 'Aclonica', sans-serif;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
   }
   
   img {
@@ -19,7 +19,7 @@ body {
     margin: 30px;
     width:45%;
     font-family: 'Nobile', sans-serif;
-    text-align: left;
+    text-align: center;
     
   }
   
